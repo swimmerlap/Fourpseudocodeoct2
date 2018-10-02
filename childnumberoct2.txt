@@ -1,0 +1,75 @@
+/*Your 6 year old client needs an application that will receive an integer from the user banging 
+on the keyboard, add 5 to it, double it, 
+subtract 7 from it, and display the result to the screen.
+ correct pseudocode will calculate the same result.*/
+
+ Start
+Define 6yroldbangonkeyboard as Number
+Define IntegerTotalsum1 as Number
+Define total2 as Number
+Define IntegerTotalsum3 as Number
+Define Number5 as Number
+Define IntegerTotalsum3 as Number
+Define Number5 as Number
+Define someunknownsisterinputnumber1 as Number
+Define someunknownsisterinputnumber2 as Number
+Define someunknownsisterinputnumber3 as Number
+Define Total4 as a Number
+
+Define 
+ 
+1.  Prompt user to enter number
+2.  Save number to variable integer 6yroldbangonkeyboard
+
+3.  Add 5 to variable integer 6yroldbangonscreen
+
+4.  IntegerTotalsum1 = 5 + 6yroldbangonscreen
+
+5.  IntegerTotalsum1 + IntegerTotalsum1 = total2
+
+6.  total2 - 7 = IntegerTotalsum3
+7.  Print IntegerTotalsum3
+
+
+
+
+8.  Prompt user to enter number 5
+9.  Check if user entered number five
+10. If number is a 5 save number to variable Number5
+    if number is not a five
+11. output message you have entered the wrong number, please enter the number five, 
+12. Close program
+13. Reset program
+
+
+
+
+14. Prompt user  sister to enter number
+15. Check if user entered number 1
+16. Save user input to variable someunknownsisterinputnumber1
+17. If else someunknownuserinputnumber1 > 1000
+18. Print "please user input number is too big, Program closing."
+19. Close program
+
+
+20. Prompt user  sister to enter number
+21. Save user input to variable someunknownsisterinputnumber2
+22. If else someunknownuserinputnumber2 > 1,000
+23. Print "please user input number is too big, Program closing."
+24. Close program
+
+
+25. Prompt user sister to enter number
+26. Save user input to variable someunknownsisterinputnumber3
+27. If else Someunknownuserinputnumber3 > 1000
+28. Print "please user input number is too big, Program closing."
+29. Close program
+
+
+
+
+30. Total4 = someunknownsisterinputnumber1 + someunknownsisterinputnumber2 + Someunknownsisterinputnumber3
+31. Print Total4
+
+END
+ 
