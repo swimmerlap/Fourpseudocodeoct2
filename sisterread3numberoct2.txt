@@ -1,0 +1,40 @@
+/*His little sister now wants a program to read three numbers, add them together and print their total.*/
+
+
+Start
+
+
+1. Define Number5 as Number
+2. Define someunknownsisterinputnumber1 as Number
+3. Define someunknownsisterinputnumber2 as Number
+4. Define someunknownsisterinputnumber3 as Number
+5. Define Total4 as a Number
+
+
+
+6.  Prompt user  sister to enter number
+7.  Check if user entered number 1
+8. Save user input to variable someunknownsisterinputnumber1
+9.. If else someunknownuserinputnumber1 > 1000
+10. Print "please user input number is too big, Program closing."
+11. Close program
+
+
+12. Prompt user  sister to enter number
+13. Save user input to variable someunknownsisterinputnumber2
+14. If else someunknownuserinputnumber2 > 1,000
+15. Print "please user input number is too big, Program closing."
+16. Close program
+
+
+17. Prompt user sister to enter number
+18. Save user input to variable someunknownsisterinputnumber3
+19. If else Someunknownuserinputnumber3 > 1000
+20. Print "please user input number is too big, Program closing."
+21. Close program
+
+
+22. Total4 = someunknownsisterinputnumber1 + someunknownsisterinputnumber2 + Someunknownsisterinputnumber3
+23. Print Total4
+
+END
