@@ -1,0 +1,27 @@
+//Find the average score
+A program is needed to prompt the user operator for ten exam scores,
+calculate the average score and display the result to the screen. 
+The average score is calculated as the sum of the scores divided by the number of scores//
+
+START
+
+Define sum10examscore
+Define currentexamscore
+Define counter
+Define Average
+
+
+counter  initialize to 0      //counter= 0;
+For counter <= 10                   //For loop, loops 10 times
+
+
+	Prompt user for Exam score
+	input currentexamscore
+	sum10examscore = sum10examscore + currentexamscore
+
+	counter = counter + 1;
+End for 
+Average = sum10examscore / counter
+Print Average
+
+END
