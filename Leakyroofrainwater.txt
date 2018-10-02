@@ -1,0 +1,49 @@
+/* 4. How much water runs off the roof
+
+How much water runs off a roof in a rain storm?
+
+To calculate the runoff from any given rainfall: Take the dimensions of the footprint of the roof and convert them to inches. 
+(So, a 50' x 20' roof is 600" x 240"). Multiply the roof dimensions by the number of inches of rainfall. 
+In this example, 600" x 240" x 1" = 144,000 cubic inches of water.
+ Divide that result by 231 to get the number of gallons (because 1 gallon = 231 cubic inches). (144,000/231 = 623.38).
+
+Write the pseudocode for the above problem. If you use the numbers provided in the example then the correct pseudocode 
+will calculate the same result.*/
+
+1.Start
+2. Define roofinches = 12
+3. Define Demension1 is a Number 
+4. Define Demension2 is a Number
+5. Define cubeinch is a Number
+6. Define cubeinch = 231
+7. Define gallonleakyroofwater = Float
+8. Define cubicincheswater is a Float
+
+
+
+9. User input  first dimension which is 50
+10. If (! == 50)
+11. 	Print" close program"
+12. 	Close Program
+13. else
+14. 	Set input to Demension1
+15. ENDIF
+
+16. User input second dimension which is 20
+17. IF (input ! == 20)
+18.		Print "close program"
+19.		Closed Program
+20.	else
+21.		Set input to Demension2
+22. ENDIF
+
+23. ConvertedDemension1 = Demension1 * roofinches                                // (50 * 12)
+24. ConvertedDemension2 = Demension2 + roofinches                                // (20 * 12)
+
+25. cubicincheswater = ConvertedDemension1 * ConvertedDemension2 * 1             //144,00= (600*240*1)
+
+26. gallonleakyroofwater = cubicincheswater / cubeinch                           // (144,000/231 = 623.38)
+27. Print gallonleakyroofwater " cubic inches of water"
+
+
+28. END
