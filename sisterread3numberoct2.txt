@@ -13,24 +13,30 @@ Start
 
 
 6.  Prompt user  sister to enter number
-7.  Check if user entered number 1
-8. Save user input to variable someunknownsisterinputnumber1
-9.. If else someunknownuserinputnumber1 > 1000
-10. Print "please user input number is too big, Program closing."
+7.  Check if user entered number 
+
+9.  If  someunknownuserinputnumber1 > 1000
+10. 	Print "please user input number is too big, Program closing."
+11. else
+12.  	Save user input to variable someunknownsisterinputnumber1
+    
 11. Close program
 
 
 12. Prompt user  sister to enter number
-13. Save user input to variable someunknownsisterinputnumber2
-14. If else someunknownuserinputnumber2 > 1,000
-15. Print "please user input number is too big, Program closing."
+
+14. If  someunknownuserinputnumber2 > 1,000
+15. 	Print "please user input number is too big, Program closing."
+	else
+	  Save user input to variable someunknownsisterinputnumber2
 16. Close program
 
 
 17. Prompt user sister to enter number
-18. Save user input to variable someunknownsisterinputnumber3
-19. If else Someunknownuserinputnumber3 > 1000
-20. Print "please user input number is too big, Program closing."
+19. If Someunknownuserinputnumber3 > 1000
+20. 	Print "please user input number is too big, Program closing."
+	else
+		Save user input to variable someunknownsisterinputnumber3
 21. Close program
 
 
